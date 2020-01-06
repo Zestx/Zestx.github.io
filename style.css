@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "coolvetica";
+	src: url('fonts/coolveticarg.tff');
+}
+
+.header {
+	color:			black;
+	font-size:		100px;
+	padding:		10px;
+	height:			auto;
+	letter-spacing: 10px;
+	font-family:	"coolvetica", "arial", "helvetica", "sans-serif";
+	text-align:		center;
+}
