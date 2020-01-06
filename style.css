@@ -3,8 +3,12 @@
 	src: url('fonts/coolveticarg.tff');
 }
 
+body {
+	background-color: rgb(50, 50, 50);
+}
+
 .header {
-	color:			black;
+	color:			white;
 	font-size:		100px;
 	padding:		10px;
 	height:			auto;
