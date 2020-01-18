@@ -4,15 +4,20 @@
 }
 
 body {
-	background-color: rgb(50, 50, 50);
+	background-color: rgb(0, 0, 0);
 }
 
-.header {
-	color:			white;
-	font-size:		100px;
-	padding:		10px;
-	height:			auto;
-	letter-spacing: 10px;
-	font-family:	"coolvetica", "arial", "helvetica", "sans-serif";
-	text-align:		center;
+.main_logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.band_pic {
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
 }
